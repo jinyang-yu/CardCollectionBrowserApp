@@ -1,0 +1,23 @@
+{
+    "cards": [
+        {
+            "groupName": "BTS",
+            "imagePath": "/images/BTS_Jin.jpg",
+            "tradeStatus": true,
+            "memberName": "Jin"
+        },
+        {
+            "groupName": "TWICE",
+            "imagePath": "/images/TWICE_Mina.jpg",
+            "tradeStatus": false,
+            "memberName": "Mina"
+        },
+        {
+            "groupName": "TWICE",
+            "imagePath": "/images/TWICE_Sana.jpg",
+            "tradeStatus": true,
+            "memberName": "Sana"
+        }
+    ],
+    "name": "My Collection"
+}

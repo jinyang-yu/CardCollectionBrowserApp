@@ -1,0 +1,15 @@
+{
+    "cards": [
+        {
+            "memberName": "Mina",
+            "groupName": "TWICE",
+            "tradeStatus": false
+        },
+        {
+            "memberName": "Jin",
+            "groupName": "BTS",
+            "tradeStatus": true
+        }
+    ],
+    "name": "My Card Collection"
+}

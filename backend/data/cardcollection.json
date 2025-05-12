@@ -1,0 +1,35 @@
+{
+    "cards": [
+        {
+            "groupName": "TWICE",
+            "tradeStatus": false,
+            "memberName": "Mina"
+        },
+        {
+            "groupName": "TWICE",
+            "tradeStatus": true,
+            "memberName": "Sana"
+        },
+        {
+            "groupName": "TWICE",
+            "tradeStatus": true,
+            "memberName": "Momo"
+        },
+        {
+            "groupName": "BLACKPINK",
+            "tradeStatus": true,
+            "memberName": "Lisa"
+        },
+        {
+            "groupName": "BTS",
+            "tradeStatus": true,
+            "memberName": "Jin"
+        },
+        {
+            "groupName": "BTS",
+            "tradeStatus": false,
+            "memberName": "Jungkok"
+        }
+    ],
+    "name": "My Card Collection"
+}
